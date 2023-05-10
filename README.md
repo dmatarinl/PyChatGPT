@@ -8,11 +8,11 @@
 
 Interaction with the gpt-3.5-turbo model
 
-![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/8f58992b-996a-44f6-bd26-330e33f62335)
+![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/c4dfa5fd-9cea-48fc-bf34-a7043420be2c)
 
 Cut the conversation and start a new one
 
-![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/c4dfa5fd-9cea-48fc-bf34-a7043420be2c)
+![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/7a9f0cf6-6bce-41b4-b8d6-bfc0738a8c2b)
 
 Exit the api
 
