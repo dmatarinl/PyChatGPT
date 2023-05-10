@@ -12,7 +12,7 @@ Interaction with the gpt-3.5-turbo model
 
 Cut the conversation and start a new one
 
-![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/64307b82-e4d1-46c9-a802-5d9545c40b0b)
+![image](https://github.com/dmatarinl/PyChatGPT/assets/74435367/c4dfa5fd-9cea-48fc-bf34-a7043420be2c)
 
 Exit the api
 
